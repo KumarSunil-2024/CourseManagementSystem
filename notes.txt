@@ -1,0 +1,18 @@
+CourseManagementSystem/
+│
+├── model/
+│   ├── User.java
+│   ├── Student.java
+│   ├── Instructor.java
+│   ├── Course.java
+│   └── CourseDatabase.java
+│
+├── view/
+│   ├── CourseView.java
+│   └── UserView.java
+│
+├── controller/
+│   └── CourseController.java
+│
+├── main/
+     └── CourseManagementSystem.java
